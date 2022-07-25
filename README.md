@@ -1,5 +1,5 @@
 - Hi, I’m Illano
-- I’m currently learning python
+- I’m currently learning java
 - How to reach me ...
 
 <!---
