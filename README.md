@@ -1,4 +1,4 @@
-# :man_technologist: Illano Ayala Alves Ferreira
+# :man_technologist: Illano Ayala
 
 
 ## Hello World 👋
@@ -23,6 +23,3 @@ My name is Illano, I'm Brazilian and I love my country.
 
 I am always eager to learn new things and possess the necessary discipline to achieve my goals.
 
-**Open to exciting opportunities! 🌟**
-
-Feel free to explore my <a href="https://daniel-rodrigues.onrender.com/">portfolio</a> and get in touch!
