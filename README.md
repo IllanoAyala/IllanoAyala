@@ -1,5 +1,4 @@
-# :man_technologist: Illano Ayala
-
+# Illano Ayala
 
 ## Statistics
 
