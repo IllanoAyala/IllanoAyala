@@ -2,17 +2,21 @@
 
 ## Statistics:
 
-<div style="display: flex;" align=center>
-  <img height="170em"src="https://github-readme-stats.vercel.app/api?username=IllanoAyala&show_icons=true&theme=transparent">
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllanoAyala&layout=compact&theme=transparent"><br>
-  <div style="display: flex;" align=center>
-    <img align="center" alt="Illano-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title = JavaScript>
-    <img align="center" alt="Illano-ReactNative" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title = "React Native">
-    <img align="center" alt="Illano-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title = "Java">
-    <img aling="center" alt="Illano-Arduino" height="50" width="70"  src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Arduino">
-    <img align="center" alt="Illano-mysql" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title = "MySql">
+<div style="display: flex; align-items: center; justify-content: space-around; margin-top: 20px;">
+  <div>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IllanoAyala&show_icons=true&theme=transparent">
   </div>
-  
+  <div>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllanoAyala&layout=compact&theme=transparent">
+  </div>
 </div>
 
+## Technologies:
+
+<div style="display: flex; align-items: center; justify-content: space-around; margin-top: 20px;">
+  <img align="center" alt="Illano-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript">
+  <img align="center" alt="Illano-ReactNative" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React Native">
+  <img align="center" alt="Illano-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java">
+  <img align="center" alt="Illano-Arduino" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP">
+  <img align="center" alt="Illano-mysql" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL">
+</div>
