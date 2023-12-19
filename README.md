@@ -2,14 +2,15 @@
 
 ## Statistics:
 
-<div style="display: flex; align-items: center; justify-content: space-around; margin-top: 20px;">
-  <div>
+<div style="display: flex; align-items: center; justify-content: space-around; margin-top: 20px; flex-direction: row;">
+  <div style="margin-right: 20px;">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IllanoAyala&show_icons=true&theme=transparent">
   </div>
   <div>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllanoAyala&layout=compact&theme=transparent">
   </div>
 </div>
+
 
 ## Technologies:
 
