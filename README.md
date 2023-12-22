@@ -1,6 +1,6 @@
 # Illano Ayala
 
-### dev for fun |or not|
+### dev for fun |or not| (constantly evolving)
 
 ## Statistics:
 
