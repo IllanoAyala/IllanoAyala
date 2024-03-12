@@ -2,11 +2,13 @@
 
 ### dev full stack (constantly evolving)
 
-## Statistics:
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
-<div style="display: flex;" align=center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IllanoAyala&show_icons=true&theme=dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllanoAyala&layout=compact&theme=dark">
+<div style="display: flex;">
+    <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IllanoAyala&theme=github_dark"/>
+    <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IllanoAyala&theme=github_dark"/>
+    <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IllanoAyala&theme=github_dark"/>
+<!--     <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IllanoAyala&theme=github_dark"/> -->
 </div>
 
 
