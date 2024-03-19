@@ -5,10 +5,10 @@
 <img height="20" alt="GIF" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div style="display: flex;">
-    <img alt="GitHub Details" width="1000px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IllanoAyala&theme=github_dark"/><br>
-    <img alt="GitHub Commits" width="330px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IllanoAyala&theme=github_dark"/>
-    <img alt="GitHub Stats" width="330px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IllanoAyala&theme=github_dark"/>
-    <img alt="GitHub Top Langs" width="330px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IllanoAyala&theme=github_dark"/>
+    <img alt="GitHub Details" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IllanoAyala&theme=github_dark"/><br>
+    <img alt="GitHub Commits" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IllanoAyala&theme=github_dark"/>
+    <img alt="GitHub Stats" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IllanoAyala&theme=github_dark"/>
+    <img alt="GitHub Top Langs" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IllanoAyala&theme=github_dark"/>
 </div>
 
 
