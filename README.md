@@ -1,58 +1,36 @@
-# Illano Ayala
+### Desenvolvedor Full Stack
+---
 
-### dev full stack (constantly evolving)
+[![Linkedin Badge](https://img.shields.io/badge/-Illano%20Ayala-151515?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/illano-ayala-b7a528276)](https://www.linkedin.com/in/illano-ayala-b7a528276) 
+[![Gmail Badge](https://img.shields.io/badge/-illanoferreira15@gmail.com-151515?style=flat-square&logo=Gmail&logoColor=white&link=mailto:casmei@protonmail.com)](mailto:illanoferreira15@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Illano__-151515?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/illano__/)](https://www.instagram.com/illano__/)
 
-<img height="20" alt="GIF" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Illano+Ayala)](https://git.io/typing-svg)
 
-<div style="display: flex;">
-    <img alt="GitHub Details" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IllanoAyala&theme=github_dark"/><br>
-    <img alt="GitHub Commits" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IllanoAyala&theme=github_dark"/>
-    <img alt="GitHub Stats" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IllanoAyala&theme=github_dark"/>
-    <img alt="GitHub Top Langs" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IllanoAyala&theme=github_dark"/>
-</div>
-
+Como um desenvolvedor full stack, estou constantemente resolvendo problemas e buscando soluções criativas. Com habilidades tanto no front-end quanto no back-end, estou preparado para enfrentar qualquer desafio com entusiasmo e expertise, entregando soluções de alta qualidade que impulsionam a inovação e o sucesso do projeto.
+    
+🔹 Constantemente Resolvendo Problemas
 
 
-<div>
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white)
+<img src="https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/apache-black.svg?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/sqlite-black.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
-<img height="20" alt="GIF" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+🔹 Atualmente estudando:
 
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/python.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/c.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/cpp.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/java.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/spring.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/html.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/css.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/js.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/react.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/mysql.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/postgresql.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/nodejs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/nextjs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/docker.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/postman.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/git.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/pc.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/IllanoAyala/IllanoAyala/blob/main/img/vs.png?raw=true"/></a></code>
-&nbsp;
-</div>
+![CloudAWS](https://img.shields.io/badge/Cloud_AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
+
+
+
+
 
 
