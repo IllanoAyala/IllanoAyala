@@ -26,7 +26,6 @@ Como um desenvolvedor full stack, estou constantemente resolvendo problemas e bu
 
 🔹 Atualmente estudando:
 
-![CloudAWS](https://img.shields.io/badge/Cloud_AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
 
 
