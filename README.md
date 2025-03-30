@@ -23,10 +23,12 @@ Como um desenvolvedor full stack, estou constantemente resolvendo problemas e bu
 <img src="https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=white" />
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
 
 🔹 Atualmente estudando:
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=white)
+
 
 
 
