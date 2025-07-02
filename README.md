@@ -27,7 +27,7 @@ Como um desenvolvedor full stack, estou constantemente resolvendo problemas e bu
 
 🔹 Atualmente estudando:
 
-![React](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/ESPRESSIF-black?style=for-the-badge&logo=espressif&logoColor=white)
 
 
 
