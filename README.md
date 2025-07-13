@@ -1,4 +1,4 @@
-### Desenvolvedor Full Stack
+### Graduando em Engenharia Mecatrônica
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-Illano%20Ayala-151515?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/illano-ayala-b7a528276)](https://www.linkedin.com/in/illano-ayala-b7a528276) 
