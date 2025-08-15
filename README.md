@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c&height=120&section=header"/>
+
 ### Graduando em Engenharia Mecatrônica
 ---
 
@@ -28,6 +30,8 @@ Como um desenvolvedor full stack, estou constantemente resolvendo problemas e bu
 🔹 Atualmente estudando:
 
 ![React](https://img.shields.io/badge/ESPRESSIF-black?style=for-the-badge&logo=espressif&logoColor=white)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c&height=120&section=footer"/>
 
 
 
