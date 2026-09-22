@@ -7,9 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Illano+Ayala)](https://git.io/typing-svg)
 
-Como um desenvolvedor full stack, estou constantemente resolvendo problemas e buscando soluções criativas. Com habilidades tanto no front-end quanto no back-end, estou preparado para enfrentar qualquer desafio com entusiasmo e expertise, entregando soluções de alta qualidade que impulsionam a inovação e o sucesso do projeto.
     
-🔹 Constantemente Resolvendo Problemas
+🔹
 
 
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white)
